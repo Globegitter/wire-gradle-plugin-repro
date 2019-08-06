@@ -1,0 +1,1 @@
+# wire-gradle-plugin-repro
